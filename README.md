@@ -1,4 +1,4 @@
-# SmartCarProject
+# Smart Car Project
 UNSW ENGG1000 Smart Car project that autonomously navigate through a defined track whilst following traffic rules and conditions.
 
 __Our project mission statement is:__
