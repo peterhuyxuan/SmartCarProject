@@ -9,4 +9,4 @@ roads. The car must be independent of human interaction upon activation, have a 
 and width of 50cm, and drive on a standard grade MDF board. It must cost less than $120._
 
 Link to the Google Drive:
-https://drive.google.com/drive/folders/0B5UE39J7603ufkgwcDFDbEFBVjFhZWUyVk5Zb2t3a3poVnM1VFdaT2N2cG1oZGZkRTlZLUE?fbclid=IwAR3aVfecbLzZ5Fds09U9p-Ob4ciMux8OsV7ujEa3KLpCVNlr3oIZCBBSeAI
+https://drive.google.com/drive/folders/0B5UE39J7603ufkgwcDFDbEFBVjFhZWUyVk5Zb2t3a3poVnM1VFdaT2N2cG1oZGZkRTlZLUE?usp=sharing
