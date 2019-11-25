@@ -8,5 +8,7 @@ traffic conditions such as red or green lights, variable speed limits and lane c
 roads. The car must be independent of human interaction upon activation, have a maximum height of 40cm
 and width of 50cm, and drive on a standard grade MDF board. It must cost less than $120._
 
+Video demonstration is in the .mp4 file.
+
 Link to the Google Drive:
 https://drive.google.com/drive/folders/0B5UE39J7603ufkgwcDFDbEFBVjFhZWUyVk5Zb2t3a3poVnM1VFdaT2N2cG1oZGZkRTlZLUE?usp=sharing
